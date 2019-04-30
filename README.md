@@ -7,4 +7,4 @@ This project is to process 882 financial patent documents with natural language 
 
 - Thirdly, Neural Network(ANN), RNN, and LSTM are applied in the classfication part. After tuning the models, ANN has the best accuracy with 96% followed by LSTM 89.4% and RNN 88.9%. 
 
-
+![image info](C:/Users/lzhan41/Pictures/financial.png)
