@@ -6,6 +6,6 @@ This project is to process 882 financial patent documents with natural language 
 
 - Secondly, apply 7 traditional classficiation machine learning algorithms with parameters tuning in the documents classfication part, including randome forst, gradient boost, linear SVM, logistic regression, gaussian SVM, KNN, and naive bayes. Among them all, randome forst has the best accuracy with 88%.   
 
-- Thirdly, Neural Network(ANN), RNN, and LSTM are applied in the classfication part. After tuning the models, ANN has the best accuracy with 96% followed by LSTM 89.4% and RNN 88.9%. 
+- Thirdly, Neural Network(ANN), RNN, and LSTM are applied in the classfication part. After tuning the models, ANN has the best accuracy with 96% followed by LSTM 89.4% and RNN 88.9%. Please see the pic.below. 
 
 ![image info](financial.png)
