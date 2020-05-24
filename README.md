@@ -1,4 +1,4 @@
-# Financial-patent-document-classficiation 
+# Financial-patent-document-classification
 ------
 This project is to process 882 financial patent documents with natural language processing and classify them into 9 categories with 96% accuracy. There are three main steps in this project listed in the following. 
 
